@@ -1,5 +1,5 @@
 # Telegram-Group-Member-Adding
-Software that can add up to 200k members in telegram group
+Software that can add up to 200k members in telegram group.
 How to use it --> https://youtu.be/9A5BrmJHSWc
 Telegram channel --> https://t.me/Badshah_Adding_Services
 
